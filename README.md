@@ -41,3 +41,9 @@ This is a small repository with examples of Object-Oriented Programming in the P
    ```bash
    python filename.py
    ```
+
+## Language
+
+ <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+</div>
